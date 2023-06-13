@@ -1,5 +1,5 @@
 from .text import *
-import csv
+
 
 def menu() -> int:
     print(main_menu)
